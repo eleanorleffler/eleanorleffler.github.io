@@ -1,0 +1,23 @@
+{
+  "name": "eleanorleffler.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eleanorleffler/eleanorleffler.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eleanorleffler/eleanorleffler.github.io/issues"
+  },
+  "homepage": "https://github.com/eleanorleffler/eleanorleffler.github.io#readme",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  }
+}
